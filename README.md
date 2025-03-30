@@ -1,6 +1,6 @@
 # Claimation:
 
-I am currently working on this challenge and will announce once I have replaced the answers with my own. Until then, the existing answers belong to [Katie Huang](https://github.com/katiehuangx/8-Week-SQL-Challenge/). Please visit her breathtaking data portfolio for more inspiration.
+I am currently working on this challenge and will announce once I have replaced the answers with my own. Until then, the existing answers belong to [Katie Huang](https://github.com/katiehuangx/8-Week-SQL-Challenge/). Please visit her breathtaking data portfolio for more inspiration. 🫶🏻
 
 
 # 8-Week SQL Challenges
